@@ -1,4 +1,4 @@
-## hello-rails-front-end
+## hello-react-front-end
 
 > Created to learn how React and Rails work separately. This is an API backend part of the project.
 
