@@ -4,7 +4,7 @@
 
 ## Backend
 
-The Backend part of this project: [hello-rails-back-end](https://github.com/BouaikIlham/hello-rails-back-end)
+The Backend part of this project: [hello-react-back-end](https://github.com/BouaikIlham/hello-rails-back-end)
 
 ## Built With
 
@@ -19,7 +19,7 @@ To get a local copy up and running follow these simple example steps.
 2- Get the directory that you want to clone the repository. <br>
 3- Open the command prompt in this directory. <br>
 4- Write `git clone https://github.com/BouaikIlham/hello-react-front-end.git` <br>
-5- Go to the repository folder in your command prompt `cd hello-rails-front-end`. <br>
+5- Go to the repository folder in your command prompt `cd hello-react-front-end`. <br>
 6- You might need to install packages with `npm install`.
 6- Go to command line and run `npm start` for the live server. <br>
 
